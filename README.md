@@ -8,6 +8,16 @@ iOS應用程式開發 平時作業、期末作業
     <th>buttenVariety</th>
     <th>pictureSizeChange</th>
   </tr>
+  <tr>
+    <td>改變背景顏色(使用RBG控制)</td>
+    <td>兩種按鈕:點擊圖案 or 開關</td>
+    <td>改變圖片長寬</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/penglingg/ios_practice/blob/main/backgroundcolor.gif" width="150" alt="backgroundChange"></td>
+    <td><img src="https://github.com/penglingg/ios_practice/blob/main/buttenVariety.gif" width="150" alt="buttenVariety"></td>
+    <td><img src="https://github.com/penglingg/ios_practice/blob/main/pictureSizeChange.gif" width="150" alt="pictureSizeChange"></td>
+  </tr>
 </table>
 
 ### backgroundChange
