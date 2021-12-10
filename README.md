@@ -18,6 +18,21 @@ iOS應用程式開發 平時作業、期末作業
     <td><img src="https://github.com/penglingg/ios_practice/blob/main/buttenVariety.gif" width="150" alt="buttenVariety"></td>
     <td><img src="https://github.com/penglingg/ios_practice/blob/main/pictureSizeChange.gif" width="150" alt="pictureSizeChange"></td>
   </tr>
+  <tr>
+    <th>pessCounter</th>
+    <th>weightConversion</th>
+    <th>finalProject</th>
+  </tr>
+  <tr>
+    <td>點擊按鈕時，讓計數器從0開始，按一下+1，到10時，改成-1</td>
+    <td>重量單位轉換(公斤、斤、磅)</td>
+    <td>動畫(海賊王)人物介紹</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/penglingg/ios_practice/blob/main/pressCounter.gif" width="150" alt="pessCounter"></td>
+    <td><img src="https://github.com/penglingg/ios_practice/blob/main/weightConversion.gif" width="150" alt="weightConversion"></td>
+    <td><img src="https://github.com/penglingg/ios_practice/blob/main/finalproject.gif" width="150" alt="finalProject"></td>
+  </tr>
 </table>
 
 ### backgroundChange
