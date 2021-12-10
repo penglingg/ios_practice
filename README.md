@@ -4,9 +4,9 @@ iOS應用程式開發 平時作業、期末作業
 
 <table>
   <tr>
-    <th>backgroundChange</th>
-    <th>buttenVariety</th>
-    <th>pictureSizeChange</th>
+    <th width="250">backgroundChange</th>
+    <th width="250">buttenVariety</th>
+    <th width="250">pictureSizeChange</th>
   </tr>
   <tr>
     <td>改變背景顏色(使用RBG控制)</td>
