@@ -2,6 +2,13 @@
 
 iOS應用程式開發 平時作業、期末作業
 
+<table>
+  <tr>
+    <th>backgroundChange</th>
+    <th>buttenVariety</th>
+    <th>pictureSizeChange</th>
+  </tr>
+</table>
 
 ### backgroundChange
 改變背景顏色(使用RBG控制)<br>
