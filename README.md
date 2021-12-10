@@ -5,9 +5,9 @@ iOS應用程式開發 平時作業、期末作業
 ## 成果展示
 <table>
   <tr>
-    <th width="250" bgcolor="gray">backgroundChange</th>
-    <th width="250" bgcolor="gray">buttenVariety</th>
-    <th width="250" bgcolor="gray">pictureSizeChange</th>
+    <th width="250">backgroundChange</th>
+    <th width="250">buttenVariety</th>
+    <th width="250">pictureSizeChange</th>
   </tr>
   <tr>
     <td>改變背景顏色(使用RBG控制)</td>
@@ -19,10 +19,12 @@ iOS應用程式開發 平時作業、期末作業
     <td><img src="https://github.com/penglingg/ios_practice/blob/main/buttenVariety.gif" width="150" alt="buttenVariety"></td>
     <td><img src="https://github.com/penglingg/ios_practice/blob/main/pictureSizeChange.gif" width="150" alt="pictureSizeChange"></td>
   </tr>
+</table>
+<table>
   <tr>
-    <th bgcolor="gray">pessCounter</th>
-    <th bgcolor="gray">weightConversion</th>
-    <th bgcolor="gray">finalProject</th>
+    <th width="250">pessCounter</th>
+    <th width="250">weightConversion</th>
+    <th width="250">finalProject</th>
   </tr>
   <tr>
     <td>點擊按鈕時，讓計數器從0開始，按一下+1，到10時，改成-1</td>
